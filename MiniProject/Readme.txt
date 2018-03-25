@@ -1,3 +1,5 @@
+Machine Learning MiniProject for the Semester Lab-Exam
 
-Work done by Saichand (as of now)
-Work in progress.. from Akhilesh and Saurav
+Work done on image classification using CNN on fashion-MNIST data
+
+Analysis is done, and Graphs are plotted. Code is also available in the folder.
