@@ -1,0 +1,23 @@
+
+Epoch = 1, train accuracy = 51.97%, test accuracy = 51.66%
+Epoch = 2, train accuracy = 61.49%, test accuracy = 61.32%
+Epoch = 3, train accuracy = 57.26%, test accuracy = 56.41%
+Epoch = 4, train accuracy = 69.35%, test accuracy = 69.09%
+Epoch = 5, train accuracy = 66.57%, test accuracy = 65.62%
+Epoch = 6, train accuracy = 67.20%, test accuracy = 66.11%
+Epoch = 7, train accuracy = 71.19%, test accuracy = 70.58%
+Epoch = 8, train accuracy = 71.03%, test accuracy = 70.61%
+Epoch = 9, train accuracy = 71.23%, test accuracy = 70.64%
+Epoch = 10, train accuracy = 73.17%, test accuracy = 72.32%
+...
+Epoch = 90, train accuracy = 80.14%, test accuracy = 79.85%
+Epoch = 91, train accuracy = 80.42%, test accuracy = 79.87%
+Epoch = 92, train accuracy = 81.13%, test accuracy = 80.58%
+Epoch = 93, train accuracy = 80.58%, test accuracy = 80.18%
+Epoch = 94, train accuracy = 79.34%, test accuracy = 78.77%
+Epoch = 95, train accuracy = 80.34%, test accuracy = 79.92%
+Epoch = 96, train accuracy = 80.54%, test accuracy = 80.16%
+Epoch = 97, train accuracy = 81.00%, test accuracy = 80.73%
+Epoch = 98, train accuracy = 80.91%, test accuracy = 80.48%
+Epoch = 99, train accuracy = 81.02%, test accuracy = 80.89%
+Epoch = 100, train accuracy = 81.42%, test accuracy = 80.94%

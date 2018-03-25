@@ -1,0 +1,125 @@
+]0;IPython: MlProject/fashionmnisttrain_y:  [[0. 0. 1. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 1.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 1. 0.]
+ [0. 0. 0. ... 0. 1. 0.]
+ [0. 0. 0. ... 1. 0. 0.]]
+train_y.shape:  (60000, 10)
+WARNING:tensorflow:From /home/saichanda/Desktop/Sem2/ML/MlProject/fashionmnist/simple_mlp_tensorflow.py:84: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See tf.nn.softmax_cross_entropy_with_logits_v2.
+
+running init
+
+None
+running w_1
+
+(785, 256)
+running w_2
+
+(256, 10)
+Epoch = 1, train accuracy = 39.48%, test accuracy = 39.36%
+Epoch = 2, train accuracy = 28.37%, test accuracy = 28.59%
+Epoch = 3, train accuracy = 27.61%, test accuracy = 27.32%
+Epoch = 4, train accuracy = 27.98%, test accuracy = 27.86%
+Epoch = 5, train accuracy = 20.46%, test accuracy = 20.22%
+Epoch = 6, train accuracy = 13.89%, test accuracy = 13.74%
+Epoch = 7, train accuracy = 28.79%, test accuracy = 28.96%
+Epoch = 8, train accuracy = 29.68%, test accuracy = 30.27%
+Epoch = 9, train accuracy = 32.21%, test accuracy = 32.62%
+Epoch = 10, train accuracy = 35.95%, test accuracy = 36.26%
+Epoch = 11, train accuracy = 35.02%, test accuracy = 35.11%
+Epoch = 12, train accuracy = 37.05%, test accuracy = 37.10%
+Epoch = 13, train accuracy = 35.84%, test accuracy = 36.20%
+Epoch = 14, train accuracy = 30.74%, test accuracy = 30.52%
+Epoch = 15, train accuracy = 29.12%, test accuracy = 29.24%
+Epoch = 16, train accuracy = 30.67%, test accuracy = 30.52%
+Epoch = 17, train accuracy = 35.27%, test accuracy = 35.02%
+Epoch = 18, train accuracy = 35.94%, test accuracy = 35.91%
+Epoch = 19, train accuracy = 35.73%, test accuracy = 35.51%
+Epoch = 20, train accuracy = 37.19%, test accuracy = 36.95%
+Epoch = 21, train accuracy = 45.19%, test accuracy = 44.95%
+Epoch = 22, train accuracy = 31.17%, test accuracy = 31.02%
+Epoch = 23, train accuracy = 43.54%, test accuracy = 43.22%
+Epoch = 24, train accuracy = 35.77%, test accuracy = 35.48%
+Epoch = 25, train accuracy = 36.50%, test accuracy = 36.17%
+Epoch = 26, train accuracy = 37.59%, test accuracy = 37.43%
+Epoch = 27, train accuracy = 37.39%, test accuracy = 37.00%
+Epoch = 28, train accuracy = 37.49%, test accuracy = 37.22%
+Epoch = 29, train accuracy = 37.49%, test accuracy = 37.22%
+Epoch = 30, train accuracy = 32.04%, test accuracy = 31.68%
+Epoch = 31, train accuracy = 29.14%, test accuracy = 28.94%
+Epoch = 32, train accuracy = 30.50%, test accuracy = 30.35%
+Epoch = 33, train accuracy = 32.83%, test accuracy = 33.03%
+Epoch = 34, train accuracy = 33.54%, test accuracy = 33.73%
+Epoch = 35, train accuracy = 33.55%, test accuracy = 33.71%
+Epoch = 36, train accuracy = 33.61%, test accuracy = 33.63%
+Epoch = 37, train accuracy = 28.90%, test accuracy = 28.78%
+Epoch = 38, train accuracy = 37.49%, test accuracy = 37.47%
+Epoch = 39, train accuracy = 37.95%, test accuracy = 37.83%
+Epoch = 40, train accuracy = 37.95%, test accuracy = 37.83%
+Epoch = 41, train accuracy = 37.95%, test accuracy = 37.83%
+Epoch = 42, train accuracy = 37.96%, test accuracy = 37.83%
+Epoch = 43, train accuracy = 37.96%, test accuracy = 37.83%
+Epoch = 44, train accuracy = 37.97%, test accuracy = 37.84%
+Epoch = 45, train accuracy = 37.97%, test accuracy = 37.84%
+Epoch = 46, train accuracy = 37.97%, test accuracy = 37.84%
+Epoch = 47, train accuracy = 37.97%, test accuracy = 37.84%
+Epoch = 48, train accuracy = 40.80%, test accuracy = 40.21%
+Epoch = 49, train accuracy = 37.98%, test accuracy = 37.84%
+Epoch = 50, train accuracy = 37.99%, test accuracy = 37.84%
+Epoch = 51, train accuracy = 37.99%, test accuracy = 37.84%
+Epoch = 52, train accuracy = 37.98%, test accuracy = 37.84%
+Epoch = 53, train accuracy = 38.01%, test accuracy = 37.86%
+Epoch = 54, train accuracy = 38.04%, test accuracy = 37.86%
+Epoch = 55, train accuracy = 38.06%, test accuracy = 37.90%
+Epoch = 56, train accuracy = 38.01%, test accuracy = 37.84%
+Epoch = 57, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 58, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 59, train accuracy = 37.97%, test accuracy = 37.80%
+Epoch = 60, train accuracy = 37.96%, test accuracy = 37.80%
+Epoch = 61, train accuracy = 37.96%, test accuracy = 37.80%
+Epoch = 62, train accuracy = 37.97%, test accuracy = 37.80%
+Epoch = 63, train accuracy = 37.98%, test accuracy = 37.80%
+Epoch = 64, train accuracy = 38.00%, test accuracy = 37.81%
+Epoch = 65, train accuracy = 38.01%, test accuracy = 37.81%
+Epoch = 66, train accuracy = 38.01%, test accuracy = 37.81%
+Epoch = 67, train accuracy = 38.01%, test accuracy = 37.81%
+Epoch = 68, train accuracy = 38.01%, test accuracy = 37.81%
+Epoch = 69, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 70, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 71, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 72, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 73, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 74, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 75, train accuracy = 46.01%, test accuracy = 45.36%
+Epoch = 76, train accuracy = 45.25%, test accuracy = 44.67%
+Epoch = 77, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 78, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 79, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 80, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 81, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 82, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 83, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 84, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 85, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 86, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 87, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 88, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 89, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 90, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 91, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 92, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 93, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 94, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 95, train accuracy = 38.02%, test accuracy = 37.84%
+Epoch = 96, train accuracy = 38.03%, test accuracy = 37.84%
+Epoch = 97, train accuracy = 38.03%, test accuracy = 37.84%
+Epoch = 98, train accuracy = 38.03%, test accuracy = 37.84%
+Epoch = 99, train accuracy = 38.03%, test accuracy = 37.84%
+Epoch = 100, train accuracy = 38.08%, test accuracy = 37.91%
